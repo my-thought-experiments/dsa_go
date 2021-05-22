@@ -1,2 +1,8 @@
-# dsa_go
-Data Structures and Algorithms (Golang)
+# Data Structures and Algorithms (Golang)
+
+## Setup
+
+```
+go run *.go
+go test
+```
